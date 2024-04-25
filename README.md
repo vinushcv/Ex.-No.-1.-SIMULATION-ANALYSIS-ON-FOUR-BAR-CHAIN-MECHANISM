@@ -55,8 +55,11 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name:Vinush.CV
+### Register Number: 212222230176
+
+![image](https://github.com/vinushcv/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113975318/b74f3730-1570-4b0e-9e16-61bef0ff32d0)
+
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
